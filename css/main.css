@@ -104,13 +104,13 @@ img{
 	min-width: max-content;
 	height: auto;
 	text-align: center;
-	padding: 5vh;
+	padding: 3rem;
 }
 .kezdohatterszoveg h1{
-	font-size: 3vw;
+	font-size: 3rem;
 }
 .kezdohatterszoveg h2{
-	font-size: 2vw;
+	font-size: 2rem;
 }
 .effekt{
 	position: absolute;
