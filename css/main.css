@@ -100,17 +100,17 @@ img{
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	width: 70%;
+	width: 40%;
 	min-width: max-content;
 	height: auto;
 	text-align: center;
-	padding: 3rem;
+	padding: 2rem;
 }
 .kezdohatterszoveg h1{
-	font-size: 3rem;
+	font-size: 2rem;
 }
 .kezdohatterszoveg h2{
-	font-size: 2rem;
+	font-size: 1rem;
 }
 .effekt{
 	position: absolute;
